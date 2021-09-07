@@ -6,6 +6,9 @@ function App() {
     <div>
      <Header />
      <LogoAndSearch />
+     <div>
+       
+     </div>
     </div>
   );
 }
