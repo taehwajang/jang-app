@@ -7,7 +7,7 @@ function App() {
      <Header />
      <LogoAndSearch />
      <div>
-       
+       <p>first commit</p>
      </div>
     </div>
   );
