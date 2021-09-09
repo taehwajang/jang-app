@@ -8,6 +8,7 @@ function App() {
      <LogoAndSearch />
      <div>
        <p>first commit</p>
+       <p>second commit</p>
      </div>
     </div>
   );
