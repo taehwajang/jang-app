@@ -10,6 +10,7 @@ function App() {
        <p>first commit</p>
        <p>second commit</p>
        <p>third commit</p>
+       <p>fourth commit</p>
      </div>
     </div>
   );
