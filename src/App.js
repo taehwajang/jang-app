@@ -13,6 +13,7 @@ function App() {
        <p>fourth commit</p>
        <p>fifth commit</p>
        <p>sixth commit</p>
+       <p>seventh commit</p>
 
      </div>
     </div>
