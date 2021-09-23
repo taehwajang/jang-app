@@ -16,6 +16,8 @@ function App() {
        <p>seventh commit</p>
        <p>eighth commit</p>
        <p>ninth commit</p>
+       <p>ten commit</p>
+
      </div>
     </div>
   );
