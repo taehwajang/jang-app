@@ -1,4 +1,11 @@
 {
+  "name": "my-package",
+  "scripts": {
+    "build": "babel src -d lib",
+    "test": "jest"
+  }
+}
+{
   "name": "jang-app",
   "version": "0.1.0",
   "private": true,
